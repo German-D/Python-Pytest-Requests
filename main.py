@@ -15,7 +15,7 @@ body_confirmation = {
 body_create = {
     
     "name": "generate",
-    "photo": "generate"
+    "photo": -1
 
 }
 body_newname = {
