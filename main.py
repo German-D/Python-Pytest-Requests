@@ -15,14 +15,14 @@ body_confirmation = {
 body_create = {
     
     "name": "generate",
-    "photo": -1
+    "photo_id": -1
 
 }
 body_newname = {
     
     "pokemon_id": "26702",
     "name": "New Name",
-    "photo": "https://dolnikov.ru/pokemons/albums/008.png"
+    "photo_id": 12
 
 }
 body_pokeboll = {
